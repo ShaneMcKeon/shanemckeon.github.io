@@ -5,9 +5,8 @@ permalink: /publication/aperiodic2023
 excerpt: " "
 date: 2023-09-08
 venue: BioRxiv
-paperurl: '[https://www.sciencedirect.com/science/article/pii/S1053811923002586](https://www.biorxiv.org/content/10.1101/2023.09.06.556453v1.full)'
-citation: "Aperiodic EEG and 7T MRSI evidence for maturation of E/I balance supporting the development of working memory through adolescence
-Shane D. McKeon, Maria I. Perica, Ashley C. Parr, Finnegan J. Calabro, Will Foran, Hoby Hetherington, Chan-Hong Moon, Beatriz Luna
+paperurl: 'https://www.biorxiv.org/content/10.1101/2023.09.06.556453v1.full'
+citation: "Shane D. McKeon, Maria I. Perica, Ashley C. Parr, Finnegan J. Calabro, Will Foran, Hoby Hetherington, Chan-Hong Moon, Beatriz Luna
 bioRxiv 2023.09.06.556453; doi: https://doi.org/10.1101/2023.09.06.556453"
 ---
 Aperiodic EEG and 7T MRSI evidence for maturation of E/I balance supporting the development of working memory through adolescence. View ORCID ProfileShane D. McKeon, Maria I. Perica, Ashley C. Parr, Finnegan J. Calabro, Will Foran, Hoby Hetherington, Chan-Hong Moon, Beatriz Luna. (2023) *BioRxiv*  [<b>[PDF]</b>](https://shanemckeon.github.io/files/aperiodicBioRxiv.pdf) </sub>
