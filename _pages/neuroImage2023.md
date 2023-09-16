@@ -1,7 +1,13 @@
+
 ---
-layout: archive
-title: "NeuroImage2023"
-author_profile: true
+title: "Age-related differences in transient gamma band activity during working memory maintenance through adolescence"
+collection: publications
+permalink: /publication/neuroImage2023
+excerpt: 
+date: 
+venue: 
+paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://www.sciencedirect.com/science/article/pii/S1053811923002586)'
+citation: 
 ---
 
 ### Age-related differences in transient gamma band activity during working memory maintenance through adolescence
