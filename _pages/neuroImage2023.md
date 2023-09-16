@@ -2,7 +2,7 @@
 ---
 title: "Age-related differences in transient gamma band activity during working memory maintenance through adolescence"
 collection: publications
-permalink: /publication/neuroImage2023
+permalink: /pages/neuroImage2023
 excerpt: 
 date: 
 venue: 
