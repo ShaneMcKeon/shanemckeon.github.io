@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "NeuroImage2023"
+permalink: 
+author_profile: true
+---
 
 ### Age-related differences in transient gamma band activity during working memory maintenance through adolescence
 Shane D. McKeon, Maria I. Perica, Ashley C. Parr, Finnegan J. Calabro, Will Foran, Hoby Hetherington, Chan-Hong Moon, Beatriz Luna. (2023)  
