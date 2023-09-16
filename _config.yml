@@ -82,7 +82,14 @@ analytics:
 author:
   name             : "Shane Devine McKeon"
   avatar           : "redDoor_zoomed.jpeg"
-  bio              : "PhD Candidate\n\NIH NRSA\n\Predoctoral Fellow\n\Department of Bioengineering\n\University of Pittsburgh"
+  bio              : |-
+    PhD Candidate
+    
+    NIH NRSA Predoctoral Fellow
+    
+    Department of Bioengineering
+    
+    University of Pittsburgh
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : 
