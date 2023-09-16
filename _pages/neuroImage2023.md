@@ -1,4 +1,3 @@
-
 ---
 title: "Age-related differences in transient gamma band activity during working memory maintenance through adolescence"
 collection: publications
@@ -6,10 +5,9 @@ permalink: /pages/neuroImage2023
 excerpt: 
 date: 
 venue: 
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://www.sciencedirect.com/science/article/pii/S1053811923002586)'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1053811923002586'
 citation: 
 ---
-
 ### Age-related differences in transient gamma band activity during working memory maintenance through adolescence
 Shane D. McKeon, Maria I. Perica, Ashley C. Parr, Finnegan J. Calabro, Will Foran, Hoby Hetherington, Chan-Hong Moon, Beatriz Luna. (2023)  
  *BioRxiv*  [<b>[PDF]</b>](https://shanemckeon.github.io/files/aperiodicBioRxiv.pdf) </sub>
