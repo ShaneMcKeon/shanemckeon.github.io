@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<sub><b>[Aperiodic EEG and 7T MRSI evidence for maturation of E/I balance supporting the development of working memory through adolescence](https://shanemckeon.github.io/_pages/neuroImage2023.md)</b>   
+<sub><b>Aperiodic EEG and 7T MRSI evidence for maturation of E/I balance supporting the development of working memory through adolescence</b>   
  Shane D. McKeon, Maria I. Perica, Ashley C. Parr, Finnegan J. Calabro, Will Foran, Hoby Hetherington, Chan-Hong Moon, Beatriz Luna. (2023)  
  *BioRxiv*  [<b>[PDF]</b>](https://shanemckeon.github.io/files/aperiodicBioRxiv.pdf) </sub>
 
