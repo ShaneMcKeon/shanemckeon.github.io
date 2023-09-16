@@ -1,11 +1,11 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: "Home"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /home/
+  - /home.html
 ---
 
 I am a rising 5th year Bioengineering PhD candidate at the University of Pittsburgh with a focus in adolescent neuroimaging. My current work aims to integrate multimodal neuroimaging and neural recording data to assess neural function to characterize neurocognitive development through adolescence.
