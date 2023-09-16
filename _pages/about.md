@@ -66,7 +66,7 @@ Project: Brain mechanisms underlying changes in neural oscillations through adol
 - Preprocessed and analyzed EEG data from longitudinal data set
 - Complete analysis using spectral event and FOOOF methodology
 
-<br></br>
+
 Undergraduate Researcher  
 Geriatric Psychiatry Neuroimaging Lab  
 The University of Pittsburgh  
