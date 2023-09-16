@@ -10,6 +10,8 @@ I am a 5th year PhD student at the University of Pittsburgh studying bioengineer
 
 I was born and raised in Morristown, NJ. In my free time I enjoy hanging out with my friends, taking my dog on hikes, and rock climbing.
 
+[View my CV](https://shanemckeon.github.io/files/McKeon_CV.pdf)
+
 ## Eduation
 2019  - Present  
 PhD in Bioengineering  
