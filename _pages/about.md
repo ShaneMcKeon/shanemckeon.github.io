@@ -66,7 +66,7 @@ Project: Brain mechanisms underlying changes in neural oscillations through adol
 - Preprocessed and analyzed EEG data from longitudinal data set
 - Complete analysis using spectral event and FOOOF methodology
 
-<br> </br>
+<br></br>
 Undergraduate Researcher  
 Geriatric Psychiatry Neuroimaging Lab  
 The University of Pittsburgh  
@@ -75,7 +75,7 @@ Project: Co-registration of MRI- defined white matter hyperintensities with Ex-v
 - Registered postmortem histology samples to in-vivo T1 and T2 weighted MRIs and ex-vivo T1 weighted MRI
 - Analyzed MR images using MATLAB, ITK, SPM12, FSL and freesurfer
 
-<br> </br>
+
 Undergraduate Researcher  
 Clinical Applications of Neuroscience Lab  
 The University of Pittsburgh  
@@ -84,7 +84,7 @@ Project: Analyzing the relationship between eye tracking and fMRI data during ne
 - Developed a MATLAB script that analyses eye tracking data and reports the number of times the participant blinks, the average duration of a blink, the number of fixations, and the average time of a fixation.
 - Assisted in the preprocessing of fMRI data
 
-<br> </br>
+
 Undergraduate Research Intern  
 The Biomedical Institute of NJ  
 Cedar Knolls NJ  
@@ -93,7 +93,7 @@ Project: Perinatal antibiotics and their impact on the microbiome
 - Responsible for gel electrophoresis, western blots, PCR and data analysis
 - Participated in H&E Staining, DNA extraction and behavioral tests through a radial arm
 
-<br> </br>
+
 Undergraduate Researcher           
 Milcarek Lab  
 The University of Pittsburgh  
