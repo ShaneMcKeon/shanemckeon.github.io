@@ -1,7 +1,6 @@
 ---
 layout: archive
 title: "NeuroImage2023"
-permalink: 
 author_profile: true
 ---
 
