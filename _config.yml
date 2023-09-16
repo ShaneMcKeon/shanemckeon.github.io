@@ -10,10 +10,7 @@ locale                   : "en-US"
 title                    : "Shane Devine McKeon"
 title_separator          : "-"
 name                     : &name "Shane Devine McKeon"
-description              : &description "PhD Candidate  
-NIH NRSA Predoctoral Fellow  
-Department of Bioengineering   
-University of Pittsburgh"
+description              : &description "PhD Candidate" /n "NIH NRSA Predoctoral Fellow" /n "Department of Bioengineering" /n "University of Pittsburgh"
 url                      : https://shanemckeon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shanemckeon.github.io"
