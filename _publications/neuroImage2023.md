@@ -6,7 +6,7 @@ excerpt: " "
 date: 2023-07-01
 venue: NeuroImage
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1053811923002586'
-citation: " "
+citation: "McKeon, S. D. et al. Age-related differences in transient gamma band activity during working memory maintenance through adolescence. NeuroImage 274, 120112 (2023)"
 ---
 Age-related differences in transient gamma band activity during working memory maintenance through adolescence
 Shane D. McKeon, Finnegan Calabro, Ryan V. Thorpe, Alethia de la Fuente, Will Foran, Ashley C. Parr, Stephanie R. Jones, Beatriz Luna. (2023) *NeuroImage*  [<b>[PDF]</b>](https://shanemckeon.github.io/files/neuroimagePub.pdf) </sub>
