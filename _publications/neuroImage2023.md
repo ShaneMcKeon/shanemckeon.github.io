@@ -2,11 +2,6 @@
 title: "Age-related differences in transient gamma band activity during working memory maintenance through adolescence"
 collection: publications
 permalink: /publication/neuroImage2023
-excerpt: " "
-date: 
-venue: 
-paperurl: 
-citation: 
 ---
 Shane D. McKeon, Finnegan Calabro, Ryan V. Thorpe, Alethia de la Fuente, Will Foran, Ashley C. Parr, Stephanie R. Jones, Beatriz Luna. (2023) *NeuroImage*  [<b>[PDF]</b>](https://shanemckeon.github.io/files/neuroimagePub.pdf) </sub>
 
