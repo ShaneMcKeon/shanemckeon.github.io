@@ -2,6 +2,9 @@
 title: "Age-related differences in transient gamma band activity during working memory maintenance through adolescence"
 collection: publications
 permalink: /publication/neuroImage2023
+excerpt: " "
+date: 2023-07-01
+venue: NeuroImage
 citation: "McKeon, S. D. et al. Age-related differences in transient gamma band activity during working memory maintenance through adolescence. NeuroImage 120112 (2023) doi:10.1016/j.neuroimage.2023.120112"
 ---
 [<b>[PDF]</b>](https://shanemckeon.github.io/files/neuroimagePub.pdf)
