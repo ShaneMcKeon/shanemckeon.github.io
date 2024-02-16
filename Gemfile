@@ -12,6 +12,7 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 
 gem "jekyll", "3.9.5"
+gem "webrick", "1.8.1"
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
