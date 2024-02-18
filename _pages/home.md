@@ -19,5 +19,5 @@ After my PhD, I would like to focus on more clinical realms of research, includi
 ## Gallery
 
 {% for gallery_page in site.gallery %}
-  [{{ myGallery.md}}]({{ gallery_page.url }})
+  [{{ gallery_page.title }}]({{ gallery_page.url }})
 {% endfor %}
