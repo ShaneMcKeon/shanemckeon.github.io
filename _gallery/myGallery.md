@@ -2,20 +2,20 @@
 layout: gallery
 title: My Gallery
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - url: /assets/images/unsplash-gallery-image-4.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
+  - url: /images/annecy.jpeg
+    image_path: /images/annecy.jpeg
+    alt: "Annecy"
+    title: "Annecy France"
+  - url: /images/meWinston.jpeg
+    image_path: /images/meWinston.jpeg
+    alt: "Me and my dog Winston"
+    title: "Me and Winston"
+  - url: /images/scotland.jpeg
+    image_path: /images/scotland.jpeg
+    alt: "Scotland"
+    title: "Scotland"
+  - url: /images/mescotland.jpeg
+    image_path: /images/mescotland.jpeg
+    alt: "Me hiking in scotland"
+    title: "Hike in Scotland"
 ---
