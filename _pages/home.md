@@ -16,12 +16,11 @@ My PhD thesis focuses on the following three aims: 1) assess the neural underpin
 After my PhD, I would like to focus on more clinical realms of research, including using neuroimaging, whether that be EEG, MRI, PET, etc, for mental health diagnoses and/or using AI in combination with neuroimaging to match patients with the appropriate and most likley to be successful medication. 
 
 ## Gallery
-{% for gallery_page in site.gallery %}
-  <h3>{{ gallery_page.title }}</h3>
 
-  <div class="gallery">
-    {% for image in gallery_page.images %}
-      <img src="{{ image.path }}" alt="{{ image.alt }}" />
-    {% endfor %}
-  </div>
-{% endfor %}
+{% assign myGallery = site.gallery | where: "title", "My Gallery" | first %}
+
+<div class="gallery">
+  {% for image in myGallery.gallery %}
+    <img src="{{ image.image_path }}" alt="{{ image.alt }}" title="{{ image.title }}" />
+  {% endfor %}
+</div>
