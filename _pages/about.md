@@ -83,7 +83,7 @@ Project: Perinatal antibiotics and their impact on the microbiome
 Project entitled "Brain Mechanisms Underlying Changes in Neural Oscillations through Adolescent Cognitive Maturation" (1F31MH132246-01A1)  
 National Institute of Mental Health  
 April 2023 – Present
-- Three-year fellowship with $27,000/ year stipend with $16,000/ year cost of education allowance
+- Three-year fellowship with $27,000/year stipend with $16,000/year cost of education allowance
 
 <b> Bioengineering in Psychiatry T32 </b>  
 <i> National Institute of Mental Health </i>  
