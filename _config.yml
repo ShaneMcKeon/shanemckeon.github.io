@@ -195,7 +195,7 @@ collections:
     permalink: /:collection/:path/
   gallery:
     output: true
-    permalink: /gallery/:path/
+    permalink: /:gallery/:path/
 
 
 # Defaults
