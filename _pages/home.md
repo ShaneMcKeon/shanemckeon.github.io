@@ -18,11 +18,11 @@ After my PhD, I would like to focus on more clinical realms of research, includi
 <p align="left">
   <img src="/images/annecy.jpeg" width="32%" height="300" />
   <img src="/images/meWinston.jpeg" width="32%" height="300"/> 
-  <img src="/images/scotland.JPG" width="32%" height="320"/>
+  <img src="/images/mescotland.JPG" width="32%" height="300"/>  
   <img src="/images/meparisposter.jpeg" width="32%" height="300"/>
   <img src="/images/me_paris.jpeg" width="32%" height="300"/>
   <img src="/images/friends.jpeg" width="32%" height="300"/>
-  <img src="/images/mescotland.JPG" width="32%" height="300"/>
+  <img src="/images/rockclimbing.jpeg" width="32%" height="300"/>
   <img src="/images/meCO.jpeg" width="32%" height="300"/>
   <img src="/images/mekendal.jpeg" width="32%" height="300"/>
 </p>
