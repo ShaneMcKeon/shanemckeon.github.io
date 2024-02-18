@@ -15,7 +15,6 @@ My PhD thesis focuses on the following three aims: 1) assess the neural underpin
 
 After my PhD, I would like to focus on more clinical realms of research, including using neuroimaging, whether that be EEG, MRI, PET, etc, for mental health diagnoses and/or using AI in combination with neuroimaging to match patients with the appropriate and most likley to be successful medication. 
 
-## Gallery
 
 {% assign myGallery = site.gallery | where: "title", "My Gallery" | first %}
 
