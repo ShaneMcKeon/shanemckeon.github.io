@@ -16,13 +16,13 @@ My PhD thesis focuses on the following three aims: 1) assess the neural underpin
 After my PhD, I would like to focus on more clinical realms of research, including using neuroimaging, whether that be EEG, MRI, PET, etc, for mental health diagnoses and/or using AI in combination with neuroimaging to match patients with the appropriate and most likley to be successful medication. 
 
 <p align="left">
-  <img src="/images/annecy.jpeg" width="31%" height="300" />
-  <img src="/images/meWinston.jpeg" width="31%" height="300"/> 
-  <img src="/images/scotland.JPG" width="31%" height="300"/>
-  <img src="/images/meparisposter.jpeg" width="31%" height="300"/>
-  <img src="/images/me_paris.jpeg" width="31%" height="300"/>
-  <img src="/images/friends.jpeg" width="31%" height="300"/>
-  <img src="/images/mescotland.JPG" width="31%" height="300"/>
-  <img src="/images/meCO.jpeg" width="31%" height="300"/>
-  <img src="/images/mekendal.jpeg" width="31%" height="300"/>
+  <img src="/images/annecy.jpeg" width="32%" height="300" />
+  <img src="/images/meWinston.jpeg" width="32%" height="300"/> 
+  <img src="/images/scotland.JPG" width="32%" height="310"/>
+  <img src="/images/meparisposter.jpeg" width="32%" height="300"/>
+  <img src="/images/me_paris.jpeg" width="32%" height="300"/>
+  <img src="/images/friends.jpeg" width="32%" height="300"/>
+  <img src="/images/mescotland.JPG" width="32%" height="300"/>
+  <img src="/images/meCO.jpeg" width="32%" height="300"/>
+  <img src="/images/mekendal.jpeg" width="32%" height="300"/>
 </p>
