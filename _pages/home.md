@@ -20,7 +20,11 @@ After my PhD, I would like to focus on more clinical realms of research, includi
 {% assign myGallery = site.gallery | where: "title", "My Gallery" | first %}
 
 <div class="gallery">
-  {% for image in myGallery.gallery %}
-    <img src="{{ image.image_path }}" alt="{{ image.alt }}" title="{{ image.title }}" />
-  {% endfor %}
+  <div class="grid-container">
+    {% for image in myGallery.gallery %}
+      <div class="grid-item">
+        <img src="{{ image.image_path }}" alt="{{ image.alt }}" title="{{ image.title }}" />
+      </div>
+    {% endfor %}
+  </div>
 </div>
