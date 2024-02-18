@@ -193,6 +193,9 @@ collections:
   conferences:
     output: true
     permalink: /:collection/:path/
+  gallery:
+    output: true
+    permalink: /gallery/:path/
 
 
 # Defaults
