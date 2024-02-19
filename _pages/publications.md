@@ -6,6 +6,6 @@ author_profile: true
 
 ---
 
- <ol>{% for post in site.conferences reversed %}
-    {% include archive-single-cv.html %}
+ <ol>{% for post in site.publications reversed %}
+    {% include archive-single.html %}
   {% endfor %}</ol>
