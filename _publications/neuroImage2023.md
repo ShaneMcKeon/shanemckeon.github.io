@@ -2,7 +2,7 @@
 title: "Age-related differences in transient gamma band activity during working memory maintenance through adolescence"
 collection: publications
 permalink: /publication/neuroImage2023
-excerpt: " "
+excerpt: "Adolescence is a stage of development characterized by neurodevelopmental specialization of cognitive processes. In particular, working memory continues to improve through adolescence, with increases in response accuracy and decreases in response latency continuing well into the twenties. Human electroencephalogram (EEG) studies indicate that gamma oscillations (35–65 Hz) during the working memory delay period support the maintenance of mnemonic information guiding subsequent goal-driven behavior, which decrease in power with development. Importantly, recent electrophysiological studies have shown that gamma events, more so than sustained activity, may underlie working memory maintenance during the delay period. However, developmental differences in gamma events during working memory have not been studied."
 date: 2023-07-01
 venue: NeuroImage
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1053811923002586'
