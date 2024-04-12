@@ -5,8 +5,8 @@ permalink: /publication/aperiodic2023
 excerpt: " "
 date: 2024-04-04
 venue: Developmental Cognitive Neuroscience
-paperurl: '[https://www.biorxiv.org/content/10.1101/2023.09.06.556453v1.full](https://www.sciencedirect.com/science/article/pii/S1878929324000343)'
-citation: "McKeon, S. D. et al. Aperiodic EEG and 7T MRSI evidence for maturation of E/I balance supporting the development of working memory through adolescence. Developmental Cognitive Neuroscience. (2024) doi: [https://doi.org/10.1101/2023.09.06.556453](https://doi.org/10.1016/j.dcn.2024.101373) "
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1878929324000343'
+citation: "McKeon, S. D. et al. Aperiodic EEG and 7T MRSI evidence for maturation of E/I balance supporting the development of working memory through adolescence. Developmental Cognitive Neuroscience. (2024) doi: https://doi.org/10.1101/2023.09.06.556453"
 ---
 [<b>[PDF]</b>](https://shanemckeon.github.io/files/aperiodicDCN.pdf)
 
