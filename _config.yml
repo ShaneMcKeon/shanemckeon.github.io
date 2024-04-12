@@ -81,9 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Shane Devine McKeon"
+  pronouns         : "She/Her"
   avatar           : "redDoor_zoomed.jpeg"
   bio              : "PhD Candidate  \
-                      NIH NRSA Predoctoral Fellow  \n
+                      NIH NRSA Predoctoral Fellow  \
                       Department of Bioengineering  \
                       University of Pittsburgh"
   location         : "Pittsburgh, PA"
