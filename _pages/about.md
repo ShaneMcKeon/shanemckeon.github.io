@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 ## About Me
-I am a 5th year PhD student at the University of Pittsburgh studying bioengineering with a focus on using neuroimaging to study adolescent development. I received my Bachelor of Science in Bioengineering, a minor in Neuroscience, and a certificate in Conceptual Foundations of Medicine from the University of Pittsburgh,  graduating in Spring 2019. During this time I was an active member of the co-ed engineering fraternity, Theta Tau, becoming vice regent in my senior year, as well as the Bio Medical Engineering Society (BMES).
+I am postdoctoral fellow at the University of Pittsburgh studying bioengineering with a focus on using neuroimaging to study adolescent development. I received my Bachelor of Science in Bioengineering, a minor in Neuroscience, and a certificate in Conceptual Foundations of Medicine from the University of Pittsburgh,  graduating in Spring 2019. During this time I was an active member of the co-ed engineering fraternity, Theta Tau, becoming vice regent in my senior year, as well as the Bio Medical Engineering Society (BMES).
 
 [View my CV](https://shanemckeon.github.io/files/McKeon_CV.pdf)
 
 ## Eduation
 <b> Doctor of Philosophy, Bioengineering, NRSA F31 Fellow </b>  
-University of Pittsburgh, Center for the Neural Basis of Cognition (CNBC), August 2019 - June 2024 (Expected)   
+University of Pittsburgh, Center for the Neural Basis of Cognition (CNBC), August 2019 - June 2024 
 Advisor: Beatriz Luna, PhD  
 Thesis: Underlying Brain Mechanisms of the E/I Balance through Adolescence  
 
