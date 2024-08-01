@@ -5,7 +5,7 @@ permalink: /publication/GAC
 excerpt: "Recently, politicians and legislative bodies have cited neurodevelopmental literature to argue that brain immaturity undermines decision-making regarding gender-affirming care (GAC) in youth. Here, we review this literature as it applies to adolescents’ ability to make decisions regarding GAC."
 date: 2024-02-12
 venue: Developmental Cognitive Neuroscience
-paperurl: ''
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1878929324000124'
 citation: "Orma Ravindranath, Maria I. Perica, Ashley C. Parr, Amar Ojha, Shane D. McKeon, Gerald Montano, Naomi Ullendorf, Beatriz Luna, E. Kale Edmiston. Adolescent neurocognitive development and decision-making abilities regarding gender-affirming care. Developmental Cognitive Neuroscience. 2024. 101351. ISSN 1878-9293."
 ---
 
