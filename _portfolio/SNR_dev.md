@@ -1,5 +1,5 @@
 ---
-title: "<a href='https://labneurocogdevel.github.io/7T_EEG/SNRdevel.html' style=color: black; text-decoration: none; >Prefrontal Excitation/Inhibition Balance Supports Adolescent Enhancement in Circuit Signal to Noise Ratio</a>"
+title: "<a href='https://labneurocogdevel.github.io/7T_EEG/SNRdevel.html' style=color: black; text-decoration: none;> Prefrontal Excitation/Inhibition Balance Supports Adolescent Enhancement in Circuit Signal to Noise Ratio</a>"
 excerpt: "<div style='display: flex; align-items: center;'>
     <img src='/images/SNR_agePlots.png' width='400' height='400' alt='SNR Age Plots' style='margin-right: 10px;'>
     <p style='text-align: justify;'>
