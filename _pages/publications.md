@@ -12,6 +12,6 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 {% include base_path %}
 
- <ol>{% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}</ol>
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
