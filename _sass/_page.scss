@@ -84,14 +84,15 @@
       }
     }
   }
-   a.custom-link {
+   
+  a.custom-link {
     color: black;
     text-decoration: none;
 }
 
-a.custom-link:hover {
+  a.custom-link:hover {
     color: black;
-    text-decoration: underline; /* Optional: Underline on hover */
+    text-decoration: underline;
 }
 
   dt {
