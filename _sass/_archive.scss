@@ -15,7 +15,7 @@
   }
 
   a {
-    color: inherit;
+    color: #000;
     text-decoration: none;
 
     &:hover {
@@ -45,7 +45,7 @@
   font-family: $sans-serif-narrow;
 
   a + a {
-    opacity: 0.5;
+    opacity: 1;
   }
 }
 
@@ -81,7 +81,7 @@
   }
 
   .archive__item-title {
-    text-decoration: underline;
+    text-decoration: none;
   }
 }
 
