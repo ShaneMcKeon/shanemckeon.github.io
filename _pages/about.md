@@ -12,7 +12,7 @@ I am postdoctoral fellow at the University of Pittsburgh studying bioengineering
 
 ## Eduation
 <b> Doctor of Philosophy, Bioengineering, NRSA F31 Fellow </b>  
-University of Pittsburgh, Center for the Neural Basis of Cognition (CNBC), August 2019 - June 2024 
+University of Pittsburgh, Center for the Neural Basis of Cognition (CNBC), August 2019 - August 2024 
 Advisor: Beatriz Luna, PhD  
 Thesis: Underlying Brain Mechanisms of the E/I Balance through Adolescence  
 
@@ -23,11 +23,17 @@ Certificate: Conceptual Foundations of Medicine
 Cumulative GPA: 3.126  
 
 ## Work Experience
+<b> Postdoctoral Researcher </b>  
+The University of Pittsburgh, Laboratory of Neurocognitive Development  
+Advisor: Dr. Beatriz Luna  
+September 2024 – Present 
+
+&nbsp;&nbsp;
 
 <b> PhD Candidate, NRSA F31 Fellow </b>  
 The University of Pittsburgh, Laboratory of Neurocognitive Development  
 Advisor: Dr. Beatriz Luna  
-August 2019 – Present  
+August 2019 – August 2024  
 - Developed a MATLAB pipeline to assess trial level transient events of EEG activity to investigate the neural underpinnings of improved executive function during our memory guided saccade working memory task, resulting in two conference presentations and a publication in NeuroImage.
 - Implemented a python pipeline to assess aperiodic resting state EEG activity to investigate EEG-derived measures of the excitatory/inhibitory balance, their associations with 7-Tesla spectroscopy measures of GABA and glutamate, and working memory, resulting in three conference presentations and a publication under review.
 - Built a MATLAB protocol to calculate the evoked and spontaneous power of derived from EEG activity during an auditory steady state stimuli to assess cortical signal-to-noise ratio (SNR) as an indirect measure of the excitatory/inhibitory balance, resulting in two conference presentations and a publication in prep.
