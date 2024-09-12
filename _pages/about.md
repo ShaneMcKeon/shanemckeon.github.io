@@ -12,9 +12,9 @@ I am postdoctoral fellow at the University of Pittsburgh studying bioengineering
 
 ## Eduation
 <b> Doctor of Philosophy, Bioengineering, NRSA F31 Fellow </b>  
-University of Pittsburgh, Center for the Neural Basis of Cognition (CNBC), August 2019 - August 2024 
-Advisor: Beatriz Luna, PhD  
-Thesis: Underlying Brain Mechanisms of the E/I Balance through Adolescence  
+University of Pittsburgh, Center for the Neural Basis of Cognition (CNBC), August 2019 - August 2024 <br>
+Advisor: Beatriz Luna, PhD <br>
+Dissertation: McKeon, Shane (2024) [Underlying Brain Mechanisms of the PFC Excitatory Inhibitory Balance through Adolescent Cognitive Maturation.](https://d-scholarship.pitt.edu/46586/) Doctoral Dissertation, University of Pittsburgh.
 
 
 <b> Bachelor of Science, Bioengineering; Minor, Neuroscience </b>  
