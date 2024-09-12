@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## About Me
-I am postdoctoral fellow at the University of Pittsburgh studying bioengineering with a focus on using neuroimaging to study adolescent development. I received my Bachelor of Science in Bioengineering, a minor in Neuroscience, and a certificate in Conceptual Foundations of Medicine from the University of Pittsburgh,  graduating in Spring 2019. During this time I was an active member of the co-ed engineering fraternity, Theta Tau, becoming vice regent in my senior year, as well as the Bio Medical Engineering Society (BMES).
+I am postdoctoral associate at the University of Pittsburgh studying bioengineering with a focus on using neuroimaging to study adolescent development. I received my Bachelor of Science in Bioengineering, a minor in Neuroscience, and a certificate in Conceptual Foundations of Medicine from the University of Pittsburgh,  graduating in Spring 2019. During this time I was an active member of the co-ed engineering fraternity, Theta Tau, becoming vice regent in my senior year, as well as the Bio Medical Engineering Society (BMES).
 
 [View my CV](https://shanemckeon.github.io/files/McKeon_CV.pdf)
 
@@ -14,7 +14,7 @@ I am postdoctoral fellow at the University of Pittsburgh studying bioengineering
 <b> Doctor of Philosophy, Bioengineering, NRSA F31 Fellow </b>  
 University of Pittsburgh, Center for the Neural Basis of Cognition (CNBC), August 2019 - August 2024 <br>
 Advisor: Beatriz Luna, PhD <br>
-Dissertation: McKeon, Shane (2024) [Underlying Brain Mechanisms of the PFC Excitatory Inhibitory Balance through Adolescent Cognitive Maturation.](https://d-scholarship.pitt.edu/46586/) Doctoral Dissertation, University of Pittsburgh.
+Dissertation: McKeon, Shane (2024) [Underlying Brain Mechanisms of the PFC Excitatory Inhibitory Balance through Adolescent Cognitive Maturation.](https://d-scholarship.pitt.edu/46586/) Doctoral Dissertation, University of Pittsburgh. The full dissertation can be found [here](https://d-scholarship.pitt.edu/46586/).
 
 
 <b> Bachelor of Science, Bioengineering; Minor, Neuroscience </b>  
@@ -23,7 +23,7 @@ Certificate: Conceptual Foundations of Medicine
 Cumulative GPA: 3.126  
 
 ## Work Experience
-<b> Postdoctoral Researcher </b>  
+<b> Postdoctoral Associate </b>  
 The University of Pittsburgh, Laboratory of Neurocognitive Development  
 Advisor: Dr. Beatriz Luna  
 September 2024 – Present 
