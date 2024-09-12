@@ -27,6 +27,8 @@ Cumulative GPA: 3.126
 The University of Pittsburgh, Laboratory of Neurocognitive Development  
 Advisor: Dr. Beatriz Luna  
 September 2024 – Present 
+- Processed and extracted insights on neural timeseries information content (Multiscale entropy) from raw biological data
+
 
 &nbsp;&nbsp;
 
