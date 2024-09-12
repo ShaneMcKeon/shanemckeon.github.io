@@ -1,5 +1,5 @@
 ---
-title: "<a href='https://labneurocogdevel.github.io/7T_EEG/fooofMRS.html'> Aperiodic EEG and 7T MRSI evidence for maturation of E/I balance supporting the development of working memory through adolescence </a>"
+title: "<a href='https://labneurocogdevel.github.io/Aperiodic_MRS_Development/'> Aperiodic EEG and 7T MRSI evidence for maturation of E/I balance supporting the development of working memory through adolescence </a>"
 excerpt: "<div style='display: flex; align-items: center;'>
     <img src='/images/FooofExample.png' width='400' height='400' alt='SNR Age Plots' style='margin-right: 10px;'>
     <p style='text-align: justify;'>
