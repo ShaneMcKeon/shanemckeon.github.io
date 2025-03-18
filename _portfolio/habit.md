@@ -4,8 +4,7 @@ collection: portfolio
 excerpt: "<div style='display: flex; align-items: center;'>
     <img src='/images/habitTask.png' width='400' height='400' alt='habit task' style='margin-right: 10px;'>
     <p style='text-align: justify;'>
-    Task was developed for the browser to characterize the neurodevelopment of habit formation as a probe for how modes of stable behavior are acquired defining adulthood, which rodent models have found is limited in adolescence and has not been studied in humans. In this project, I rewrote the task for Psychtoolbox in Matlab. 
-    
+    This project involves running an interactive experiment using Psychtoolbox, designed to study decision-making and task performance in a controlled environment. Participants are presented with a series of instructions and tasks, including choosing between treasure chests, each associated with different probabilities of containing treasure. The experiment tracks responses, timing, and behavioral outcomes through various event sequences, and the data is logged and saved for analysis. The setup includes detailed visual presentations, including animated sprites and dynamic feedback, all displayed on a multi-screen setup for enhanced user experience. Data from each trial is meticulously recorded, including timing and event outcomes, and saved for further analysis, ensuring that no previous data is overwritten. The project aims to collect comprehensive behavioral data to investigate cognitive processes in decision-making and learning, with a focus on efficient task management and precise timing.
 </p>
 </div> "
 permalink: /portfolio/habit
