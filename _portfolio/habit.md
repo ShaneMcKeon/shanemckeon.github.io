@@ -1,5 +1,6 @@
 ---
 title: "<a href='https://github.com/LabNeuroCogDevel/choice-landscape'> Habit Task Development </a>"
+collection: portfolio
 excerpt: "<div style='display: flex; align-items: center;'>
     <img src='/images/habitTask.png' width='400' height='400' alt='habit task' style='margin-right: 10px;'>
     <p style='text-align: justify;'>
@@ -7,7 +8,7 @@ excerpt: "<div style='display: flex; align-items: center;'>
     
 </p>
 </div> "
+permalink: /portfolio/habit
 date: 2024-09-15
 layout: archive
-collection: portfolio
 ---
