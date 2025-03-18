@@ -1,5 +1,6 @@
 ---
 title: "<a href='https://labneurocogdevel.github.io/Spectral_Events/'> Age-related differences in transient gamma band activity during working memory maintenance through adolescence </a>"
+date: 2023-07-01
 excerpt: "<div style='display: flex; align-items: center;'>
     <img src='/images/spectralEvent.png' width='400' height='400' alt='SNR Age Plots' style='margin-right: 10px;'>
     <p style='text-align: justify;'>
