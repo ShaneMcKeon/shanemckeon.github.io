@@ -3,8 +3,6 @@ layout: archive
 title: "Projects & Code Documentation"
 permalink: /portfolio/
 author_profile: true
-redirect_from: 
-  - /wordpress/academic-papers/
 ---
 
 
